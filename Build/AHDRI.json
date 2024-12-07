@@ -1,0 +1,11 @@
+{
+"companyName": "DefaultCompany",
+"productName": "TestChooseSystem",
+"dataUrl": "AHDRI.data.unityweb",
+"asmCodeUrl": "AHDRI.asm.code.unityweb",
+"asmMemoryUrl": "AHDRI.asm.memory.unityweb",
+"asmFrameworkUrl": "AHDRI.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
